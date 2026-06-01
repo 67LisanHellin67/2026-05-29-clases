@@ -1,7 +1,8 @@
 package org.example
 
-import org.example.app.Fecha
+import org.example.app.App
 
 fun main() {
-    println(Fecha(1, 3, 1918).toString())
+    var eee=App()
+    eee.fef()
 }
